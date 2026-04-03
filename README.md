@@ -1,6 +1,6 @@
 # Custom_US_IPTV_No_Sportz
 Custom IPTV playlist mapped with 3 built in guides
-_Custom Tim (Manual edit from Github us_all.m3u combined with Select channels from KLOWD and LIVENOW all sports, black, foreign, and kids programming removed)
+_Custom Tim (Manual edit from Github us_all.m3u combined with Select channels from KLOWD and LIVENOW all sports, BET, foreign, and kids programming removed)
 M3U: C:\Users\timsc\Downloads\MEmu Download\IPTV\_Custom Tim.m3u
 EPG: https://epg.pw/xmltv/epg_US.xml
 EPG: https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml
