@@ -1,10 +1,12 @@
 # Custom_US_IPTV_No_Sportz
-Custom IPTV playlist mapped with 3 built in guides
+Custom IPTV playlist mapped with 4 built in guides
 _Custom Tim (Manual edit from Github us_all.m3u combined with Select channels from KLOWD and LIVENOW all sports, BET, foreign, and kids programming removed)
-M3U: C:\Users\timsc\Downloads\MEmu Download\IPTV\_Custom Tim.m3u
+M3U: _Custom Tim V2.0
 EPG: https://epg.pw/xmltv/epg_US.xml
 EPG: https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml
 EPG: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/us.xml
+EPG: https://i.mjh.nz/PBS/all.xml.gz
+
 
 
 _Buddy Chew Chew TV PASS
@@ -97,15 +99,6 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
 Custom: https://www.open-epg.com/generate/pMeRnsFumZ.xml  (custom from Open-EPG, updates once per day at noon, only goes out one day)
  
 
-Dispatcharr:
-1. load m3u(s)
-2. enable groups in the edit settings
-3. go to channels tab; on left side are the channels you will add to or delete for the new playlist. On the right are the playlist streams which may not populate as a channel,
-so you may have to click the plus sign and add the stream as a channel.
-4. add playlist EPG
-5. go back to channels tab and click the three dots on the channel side and click "auto match EPG"
-6. click edit to add or change icon, or to try and automatch EPG again.
-
 ***FOX***
 
 * WORKING
@@ -116,9 +109,6 @@ https://starshare.st/live/P4B9TB9xR8/humongous2tonight/51.ts
 2 #EXTINF:-1 group-title="USA TV" tvg-ID="FOX News Channel" tvg-name="FOX News Channel" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16374_h15_ab.png", FOX News Channel
 https://v4.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=7I-XU5wzlgwEEBOHnsgbqg&expires=1774800512&user_id=eDcyRHNEcDZnMFIzNUpERllLWXJlQndkZWM2UDhGZXR6UGJJTFFhRA==
 
-
-
-
 5 #EXTINF:-1 tvg-id="FOX News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (720p) [Not 24/7]
 https://tvpass.org/live/FoxNewsChannel/hd
 
@@ -127,7 +117,8 @@ https://tvpass.org/live/FoxNewsChannel/sd
 
 
 
-* NOT WORKING
+* NOT WORKING *
+  
 3 #EXTINF:-1  tvg-name="FOX News Channel SD" tvg-id="FOX News Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" group-title="TheTVApp",FOX News Channel SD
 https://e1.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=w-7q_4u1yOxA3tDFUio97Q&expires=1774806073&user_id=RzAxak5McG1lb01LOTlFa3hHVEpzZlowWHdsQjdOQUVpNUhpa1g5Yg==
 
@@ -141,8 +132,6 @@ https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/mpegts
 #EXTVLCOPT:http-referrer=https://www.newslive.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-
-
 
 #EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png" group-title="News Other", FOX WEATHER
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17.m3u8
