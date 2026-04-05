@@ -1,4 +1,4 @@
-#EXTM3U x-url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml,https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/us.xml,https://epg.pw/xmltv/epg_US.xml"
+#EXTM3U x-url-tvg="https://i.mjh.nz/PBS/all.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml,https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/us.xml,https://epg.pw/xmltv/epg_US.xml"
 
 # This playlist should map to https://epg.pw/xmltv/epg_US.xml and https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml
 
