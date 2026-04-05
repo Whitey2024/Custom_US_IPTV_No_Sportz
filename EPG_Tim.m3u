@@ -1,5 +1,9 @@
-#EXTM3U x-url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml,https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/us.xml,https://epg.pw/xmltv/epg_US.xml,https://raw.githubusercontent.com/Whitey2024/Custom_US_IPTV_No_Sportz/refs/heads/main/_Custom%20Tim%20v2.0.m3u
-"
+#EXTM3U x-url-tvg="https://i.mjh.nz/PBS/all.xml,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml,https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/us.xml,https://epg.pw/xmltv/epg_US.xml"
+
+# EPG: https://epg.pw/xmltv/epg_US.xml
+# EPG: https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml
+# EPG: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/us.xml
+# EPG: https://i.mjh.nz/PBS/all.xml.gz
 
 
 
