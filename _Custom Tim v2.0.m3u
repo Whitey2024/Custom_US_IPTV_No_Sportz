@@ -49,9 +49,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 # OANN from Klowdtv
 
-#EXTINF:-1 tvg-id="465382" group-title="News" tvg-name="OANN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png", OAN (720p)
+#EXTINF:-1 tvg-id="465382" group-title="News" tvg-name="OANN" tvg-logo="https://cdn.brandfetch.io/id4T_W8Mo3/w/225/h/225/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1758971604259", OAN (720p)
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="465382" group-title="News" tvg-name="OANN" tvg-logo="https://logos.fandom.com/wiki/One_America_News_Network?file=One_America_News_Network.svg", OAN
+#EXTINF:-1 tvg-id="465382" group-title="News" tvg-name="OANN" tvg-logo="https://cdn.brandfetch.io/id4T_W8Mo3/w/225/h/225/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1758971604259", OAN
 https://cdn.klowdtv.net/803B48A/oan_aws/OAN.m3u8
 #EXTINF:-1 tvg-id="OANEncore.us" tvg-name="OAN Encore" group-title="News" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg", OAN Encore (720p) [Geo-blocked]
 https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
