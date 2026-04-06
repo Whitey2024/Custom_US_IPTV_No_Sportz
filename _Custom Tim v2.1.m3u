@@ -28,13 +28,13 @@ http://mytvstream.net:8080/live/30550113/30550113/17639.m3u8
 
 # NEWSMAX
 
-#EXTINF:-1 group-title="News" tvg-id="Newsmax TV" tvg-name="Newsmax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png", Newsmax TV (720p)
+#EXTINF:-1 group-title="News" tvg-id="Newsmax TV" tvg-name="Newsmax" tvg-logo="https://images.seeklogo.com/logo-png/42/1/newsmax-logo-png_seeklogo-429599.png", Newsmax TV (720p)
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="Newsmax TV" tvg-name="Newsmax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png", NewsMax TV HD (TVPass)
+#EXTINF:-1 group-title="News" tvg-id="Newsmax TV" tvg-name="Newsmax" tvg-logo="https://images.seeklogo.com/logo-png/42/1/newsmax-logo-png_seeklogo-429599.png", NewsMax TV HD (TVPass)
 https://tvpass.org/live/NewsmaxTV/hd
 
-#EXTINF:-1 group-title="News" tvg-id="Newsmax TV" tvg-name="Newsmax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png", NewsMax TV SD (TVPass)
+#EXTINF:-1 group-title="News" tvg-id="Newsmax TV" tvg-name="Newsmax" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/newsmax-tv-us.png?raw=true", NewsMax TV SD (TVPass)
 https://tvpass.org/live/NewsmaxTV/sd
 
 #EXTINF:-1 group-title="News" tvg-id="NewsNet.us" tvg-name="Newsnet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png", NewsNet (720p)
