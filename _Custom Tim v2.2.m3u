@@ -220,7 +220,7 @@ http://mytvstream.net:8080/live/30550113/30550113/9240.m3u8
 #EXTINF:-1 tvg-chno="76" tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="TV",Game Show Network
 http://mytvstream.net:8080/live/30550113/30550113/120633.m3u8
 
-#EXTINF:-1 tvg-chno="79" tvg-id="Grit" tvg-name="Grit TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" group-title="TV",Grit TV
+#EXTINF:-1 tvg-chno="79" tvg-id="Grit" tvg-name="Grit" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" group-title="TV",Grit TV
 http://mytvstream.net:8080/live/30550113/30550113/20861.m3u8
 
 #EXTINF:-1 tvg-chno="80" tvg-id="465241" tvg-name="Hallmark" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="TV",Hallmark Channel
@@ -235,13 +235,13 @@ http://mytvstream.net:8080/live/30550113/30550113/10289.m3u8
 #EXTINF:-1 tvg-chno="83" tvg-id="HBO East" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="TV",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
-#EXTINF:-1 tvg-chno="84" tvg-id="HBO 2 East" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="TV",HBO 2
+#EXTINF:-1 tvg-chno="84" tvg-id="HBO 2 East" tvg-name="HBO 2 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="TV",HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
 #EXTINF:-1 tvg-chno="85" tvg-id="464953" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="TV",HBO Comedy
 http://mytvstream.net:8080/live/30550113/30550113/17773.m3u8
 
-#EXTINF:-1 tvg-chno="86" tvg-id="HBO Family East" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="TV",HBO Family
+#EXTINF:-1 tvg-chno="86" tvg-id="HBO Family East" tvg-name="HBO Family East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="TV",HBO Family
 http://mytvstream.net:8080/live/30550113/30550113/17772.m3u8
 
 #EXTINF:-1 tvg-chno="87" tvg-id="465104" tvg-name="HBO Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="TV",HBO Zone
@@ -377,7 +377,7 @@ https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="",Crime & Justice (1080p) [Geo-blocked]
 https://linear-474.frequency.stream/dist/glewedtv/474/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PursuitUP.us@SD",Pursuit UP (720p)
+#EXTINF:-1 tvg-id="465098",Pursuit UP (720p)
 https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="",Real Disaster Channel (1080p) [Geo-blocked]
