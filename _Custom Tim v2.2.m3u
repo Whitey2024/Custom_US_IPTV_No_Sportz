@@ -12,16 +12,16 @@
 #EXTINF:-1 group-title="News" tvg-chno="1" tvg-id="465372" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News
 https://starshare.st/live/P4B9TB9xR8/humongous2tonight/51.ts
 
-#EXTINF:-1 group-title="News" tvg-chno="2" tvg-ID="FOX News Channel" tvg-name="FOX News Channel" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16374_h15_ab.png", FOX News Channel
+#EXTINF:-1 group-title="News" tvg-chno="2" tvg-ID="FOX News Channel" tvg-name="FOX News Channel (TVApp)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16374_h15_ab.png", FOX News Channel
 https://v4.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=7I-XU5wzlgwEEBOHnsgbqg&expires=1774800512&user_id=eDcyRHNEcDZnMFIzNUpERllLWXJlQndkZWM2UDhGZXR6UGJJTFFhRA==
 
 #EXTINF:-1 group-title="News" tvg-chno="5" tvg-id="FOX News Channel" tvg-name="FOX News Channel HD (tvpass)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (720p) [Not 24/7]
 https://tvpass.org/live/FoxNewsChannel/hd
 
-#EXTINF:-1 group-title="News" tvg-chno="6" tvg-id="FOX News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" tvg-name="Fox News SD" group-title="Live",Fox News SD
+#EXTINF:-1 group-title="News" tvg-chno="6" tvg-id="FOX News Channel" tvg-name="FOX News Channel SD (tvpass)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" tvg-name="Fox News SD" group-title="Live",Fox News SD
 https://tvpass.org/live/FoxNewsChannel/sd
 
-#EXTINF:-1 tvg-chno="66" tvg-id="Fox Business Network" group-title="News" tvg-name="Fox Business" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="TV",Fox Business
+#EXTINF:-1 group-title="News" tvg-chno="66" tvg-id="Fox Business Network" group-title="News" tvg-name="Fox Business" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="TV",Fox Business
 http://mytvstream.net:8080/live/30550113/30550113/17639.m3u8
 
 
