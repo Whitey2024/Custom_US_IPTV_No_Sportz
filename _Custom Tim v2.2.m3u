@@ -48,15 +48,15 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 # OANN from Klowdtv
 
-#EXTINF:-1 tvg-id="465382" group-title="News" tvg-name="OANN" tvg-logo="https://cdn.brandfetch.io/id4T_W8Mo3/w/225/h/225/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1758971604259", OAN (720p)
+#EXTINF:-1 group-title="News" tvg-id="465382" group-title="News" tvg-name="OANN" tvg-logo="https://cdn.brandfetch.io/id4T_W8Mo3/w/225/h/225/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1758971604259", OAN (720p)
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="465382" group-title="News" tvg-name="OANN" tvg-logo="https://cdn.brandfetch.io/id4T_W8Mo3/w/225/h/225/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1758971604259", OAN
+#EXTINF:-1 group-title="News" tvg-id="465382" group-title="News" tvg-name="OANN" tvg-logo="https://cdn.brandfetch.io/id4T_W8Mo3/w/225/h/225/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1758971604259", OAN
 https://cdn.klowdtv.net/803B48A/oan_aws/OAN.m3u8
-#EXTINF:-1 tvg-id="OANEncore.us" tvg-name="OAN Encore" group-title="News" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg", OAN Encore (720p) [Geo-blocked]
+#EXTINF:-1 group-title="News" tvg-id="OANEncore.us" tvg-name="OAN Encore" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg", OAN Encore (720p)
 https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="5e7cf6c7b156d500078c5f44" tvg-name="" tvg-logo="https://i.imgur.com/0xW69iu.png", OANPlus (1080p)
 https://oan-plus-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e7cf6c7b156d500078c5f44" group-title="News" tvg-name="OAN+", OAN Plus
+#EXTINF:-1 group-title="News" tvg-id="5e7cf6c7b156d500078c5f44" tvg-name="OAN+", OAN Plus
 https://67bf68ca230b4e82bd5ac42d46449483.mediatailor.us-west-2.amazonaws.com/v1/master/d138761b0916ee5f222129c594a33677627df5e3/KlowdTV_OAN_Plus/fast/OAN_Encore/playlist.m3u8
 
 # OTHER
@@ -69,7 +69,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/52
 https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="ReutersTV.us@SD" tvg-name="Reuters" tvg-logo="https://i.imgur.com/6eQ2nCJ.png", Reuters
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="ScrippsNews.us" tvg-name="Scripps News" tvg-logo="https://i.imgur.com/W0Jvi5o.png", Scripps News
+#EXTINF:-1 group-title="News" tvg-id="Scripps" tvg-name="Scripps News" tvg-logo="https://i.imgur.com/W0Jvi5o.png", Scripps News
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8986-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20db7334-405e-4c4e-abea-fa620b2d19fb
 #EXTINF:-1 group-title="News" tvg-id="TheFirstTV.us" tvg-name="The First TV" tvg-logo="https://i.imgur.com/rOSlp93.png", The First TV (1080p)
 https://thefirst-oando.amagi.tv/playlist.m3u8
