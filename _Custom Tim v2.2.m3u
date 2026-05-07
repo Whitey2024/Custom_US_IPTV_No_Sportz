@@ -9,6 +9,9 @@
 
 # FOX
 
+#EXTINF:-1 group-title="News" tvg-chno="7" tvg-id="Fox News Channel",Fox News Channel (480p)
+http://41.205.93.154/FOX-NEWS/index.m3u8
+
 #EXTINF:-1 group-title="News" tvg-chno="1" tvg-id="465372" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png", Fox News Channel
 https://starshare.st/live/P4B9TB9xR8/humongous2tonight/51.ts
 
