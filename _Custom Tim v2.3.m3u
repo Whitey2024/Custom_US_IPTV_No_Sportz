@@ -8,12 +8,9 @@
 # ***News***
 
 # FOX
-#EXTINF:-1 group-title="News" tvg-chno="0000" tvg-id="FOX News Channel" tvg-name="FOX News (UFreeTV2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png", Fox News HD
-https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
-#EXTINF:-1 group-title="News" tvg-chno="1111" tvg-id="FOX News Channel" tvg-name="FOX News (UFreeTV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png", Fox News HD
-https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8?token=4d4392d61a384f7339999bc3cd8116ee&expires=1781802652&sig=82307ebf617402c50abc376cc48aff316e234f4010437e3bd8dcc6dcb304de14
-
+#EXTINF:-1 group-title="Live TV"  tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png",FOX News
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/22530.ts
 
 #EXTINF:-1 group-title="News" tvg-chno="2222" tvg-id="FOX News Channel" tvg-name="FOX News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png", Fox News HD
 https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8?token=701d4d1819192306f68ba1084f4d3a3e&expires=1782061854&sig=e9e20185e808ec789cb97a9c1eed60025975ae7b7128a1a7117fb077d8d84d17
