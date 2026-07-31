@@ -9,7 +9,7 @@ EPG: https://i.mjh.nz/PBS/all.xml.gz
 
 
 
-_Buddy Chew Chew TV PASS
+_Buddy Chew Chew
 M3U: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/tv.m3u (has built in EPG which seems to fill well)
 EPG: https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml
 
@@ -49,20 +49,6 @@ _Xumo (Buddy Chew Chew)
 https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u
 EPG: 
 
-_TV PASS (Github IPTV)
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_tvpass.m3u
-EPG: 
-
-_TV APP
-M3U: https://tvpass.org/playlist/m3u
-EPG: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8
-  
-_The TVapp.to without a high volume warning (Buddy Chew Chew Live)
-M3U: https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.m3u
-EPG: https://tvpass.org/epg.xml (comprehensive but has only 1 day of guide data)
-
-
-
 _Fire TV
 https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_firetv.m3u
 
@@ -77,20 +63,7 @@ https://raw.githubusercontent.com/BuddyChewChew/combine-remote-playlists/refs/he
 https://iptv-org.github.io/iptv/index.m3u
 
 
-Dead:
- _Move On Joy (no longer working)
-M3U: https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_moveonjoy.m3u
-M3U: https://us_moveonjoy.m3u
-EPG: 
 
-_STIRR (All) (Buddy Chew Chew) NO LONGER WORKING OFFLINE DEAD
-https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/stirr_all.m3u
-EPG:
-
-_PPV 
-M3UL StreamEast https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/PPVLand.m3u8
-
- 
 EPG Guide-XML:
 https://epg.pw/xmltv/epg_US.xml     (this EPG uses tvg-id="465000" numbers as its key matching field.) 
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml     (This EPG uses tvg-id="Channel Name" as its key matching field. It is also alphabetic so easier to manually match)
@@ -101,43 +74,18 @@ Custom: https://www.open-epg.com/generate/pMeRnsFumZ.xml  (custom from Open-EPG,
 
 ***FOX***
 
-* WORKING
+* WORKING (as of 7/31/2026)
 
-1 #EXTINF:-1 group-title="News" tvg-chno="67" tvg-id="FOX News Channel" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News
-https://starshare.st/live/P4B9TB9xR8/humongous2tonight/51.ts
+#EXTINF:-1 group-title="News" tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png",FOX News
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/22530.ts
 
-2 #EXTINF:-1 group-title="USA TV" tvg-ID="FOX News Channel" tvg-name="FOX News Channel" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16374_h15_ab.png", FOX News Channel
-https://v4.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=7I-XU5wzlgwEEBOHnsgbqg&expires=1774800512&user_id=eDcyRHNEcDZnMFIzNUpERllLWXJlQndkZWM2UDhGZXR6UGJJTFFhRA==
+#EXTINF:-1 tvg-chno="62" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News
+http://206.212.244.63/67/index.m3u8
 
-5 #EXTINF:-1 tvg-id="FOX News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (720p) [Not 24/7]
-https://tvpass.org/live/FoxNewsChannel/hd
+#EXTINF:-1 tvg-chno="60" tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="TV",Fox Business
+http://206.212.244.63/66/index.m3u8
 
-6 #EXTINF:-1 tvg-id="FOX News Channel" tvg-name="Fox News SD" group-title="Live",Fox News SD
-https://tvpass.org/live/FoxNewsChannel/sd
-
-
-
-* NOT WORKING *
-  
-3 #EXTINF:-1  tvg-name="FOX News Channel SD" tvg-id="FOX News Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" group-title="TheTVApp",FOX News Channel SD
-https://e1.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=w-7q_4u1yOxA3tDFUio97Q&expires=1774806073&user_id=RzAxak5McG1lb01LOTlFa3hHVEpzZlowWHdsQjdOQUVpNUhpa1g5Yg==
-
-4 #EXTINF:-1  tvg-name="FOX News Channel HD" tvg-id="fox-news" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" group-title="TheTVApp",FOX News Channel HD
-https://v8.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=lLxKtzGM7k1eFTUmrYWplA&expires=1774806082&user_id=RzAxak5McG1lb01LOTlFa3hHVEpzZlowWHdsQjdOQUVpNUhpa1g5Yg==
-
-8 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" tvg-name="FOX News Channel", FOX NEWS CHANNEL
-https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/mpegts
-
-9 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News" http-referrer="https://www.newslive.com/" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",Fox News Channel (720p)
-#EXTVLCOPT:http-referrer=https://www.newslive.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-
-#EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png" group-title="News Other", FOX WEATHER
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17.m3u8
-
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",LiveNOW from FOX (1080p) [Geo-blocked]
-https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8
+REBEL IPTV has free working Fox News but unable to generate source url Sometimes it flips to Fox Live.
 
 ***KNOWN WORKING EPG's***
 https://epg.pw/xmltv/epg_US.xml
