@@ -1,0 +1,51 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml,https://i.mjh.nz/PBS/all.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml,https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/us.xml,https://epg.pw/xmltv/epg_US.xml"
+
+
+# Use Emby Guide data for local channels
+
+# Added one Pluto Channel which requires Pluto EPG 
+
+# ***News***
+
+# FOX
+
+#EXTINF:-1 group-title="News" tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png",FOX News
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/22530.ts
+
+#EXTINF:-1 tvg-chno="62" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
+https://p6.usnlive.com/stream/foxnews.m3u8
+
+#EXTINF:-1 tvg-chno="60" tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="TV",Fox Business
+http://206.212.244.63/66/index.m3u8
+
+# NEWSMAX
+
+#EXTINF:-1 group-title="News" tvg-id="Newsmax TV" tvg-name="Newsmax (UFreeTV)" tvg-logo="https://images.seeklogo.com/logo-png/42/1/newsmax-logo-png_seeklogo-429599.png", Newsmax TV (720p)
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-chno="109" tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87925_dark_360w_270h.png" group-title="TV",Newsmax TV
+http://206.212.244.63/128/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="NewsNet.us" tvg-name="Newsnet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png", NewsNet (720p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="Newsmax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png", Newsmax TV (720p)
+https://amg00217-newsmax-amg00217c2-zeasn-us-2412.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-zeasnus/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="Newsmax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png", Newsmax TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/newsmax-tv/index.m3u8?ads.vf=Td2nCUXB4ha
+
+# OANN from Klowdtv
+
+#EXTINF:-1 group-title="News" tvg-id="465382" group-title="News" tvg-name="OANN" tvg-logo="https://cdn.brandfetch.io/id4T_W8Mo3/w/225/h/225/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1758971604259", OAN (720p)
+https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="465382" group-title="News" tvg-name="OANN" tvg-logo="https://cdn.brandfetch.io/id4T_W8Mo3/w/225/h/225/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1758971604259", OAN
+https://cdn.klowdtv.net/803B48A/oan_aws/OAN.m3u8
+#EXTINF:-1 group-title="News" tvg-id="OANEncore.us" tvg-name="OAN Encore" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg", OAN Encore (720p)
+https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="5e7cf6c7b156d500078c5f44" tvg-name="" tvg-logo="https://i.imgur.com/0xW69iu.png", OANPlus (1080p)
+https://oan-plus-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="5e7cf6c7b156d500078c5f44" tvg-name="OAN+", OAN Plus
+https://67bf68ca230b4e82bd5ac42d46449483.mediatailor.us-west-2.amazonaws.com/v1/master/d138761b0916ee5f222129c594a33677627df5e3/KlowdTV_OAN_Plus/fast/OAN_Encore/playlist.m3u8
