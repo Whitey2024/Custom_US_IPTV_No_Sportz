@@ -14,7 +14,7 @@ http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/22530.ts
 
 #EXTINF:-1 tvg-chno="62" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News
 #EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
-https://p6.usnlive.com/stream/foxnews.m3u8
+https://p12.usnlive.com/stream/foxnews.m3u8
 
 #EXTINF:-1 tvg-chno="60" tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="TV",Fox Business
 http://206.212.244.63/66/index.m3u8
