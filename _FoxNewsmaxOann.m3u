@@ -23,7 +23,7 @@ https://ds164.bluetier.top/FoxNewsUS/tracks-v1a1/mono.m3u8?token=Rm94TmV3c1VTfG5
 http://206.212.244.63/66/index.m3u8
 
 #EXTINF:-1 tvg-chno="002" group-title="News" tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png",FOX News (freeintertv)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
+https://stream.livenewsplay.com:9443/hls/foxnewssd/index.m3u8?token=816b65ef0f6c4f93580ad029462923c3&expires=1788778841&sig=953d4c68d2d0fa94b278508f36e90a44a771a6e88fc0d4d0b5240ee88492c433
 
 # NEWSMAX
 
