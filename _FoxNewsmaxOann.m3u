@@ -14,7 +14,7 @@ http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/22530.ts
 
 #EXTINF:-1 tvg-chno="62" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News
 #EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
-https://p10.usnlive.com/stream/foxnews.m3u8|VLC/3.0.23
+https://p10.usnlive.com/stream/foxnews.m3u8|User-Agent=VLC/3.0.23
 
 #EXTINF:-1 tvg-chno="001" group-title="News" tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png",FOX News (FreeShot)
 https://ds164.bluetier.top/FoxNewsUS/tracks-v1a1/mono.m3u8?token=Rm94TmV3c1VTfG5vX2NoZWNrX2lwfDE3ODg3MDM4ODI%3D.def00ce0d9b082ebec831b5ee8beafe29b1302eb32a08f51b2332cb20a97a426|Mozilla/5.0
