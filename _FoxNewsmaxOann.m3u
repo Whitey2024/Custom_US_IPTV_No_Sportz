@@ -31,6 +31,10 @@ https://p11.usnlive.com/stream/foxnews.m3u8
 #EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
 https://p1.usnlive.com/stream/foxnews.m3u8
 
+#EXTINF:-1 tvg-chno="73" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
+https://p0.usnlive.com/stream/foxnews.m3u8
+
 #EXTINF:-1 tvg-chno="87" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News (Alt)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News (Alt)
 https://tvsen6.aynaott.com/foxnews/index.m3u8
 
