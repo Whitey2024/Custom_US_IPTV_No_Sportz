@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-chno="22530" group-title="News" tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png",FOX News (Timmy)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://stream.livenewsplay.com:9443/hls/foxnewssd/index.m3u8?token=59680fd70c76c9ab62fe61f70a8665af&expires=1790865771&sig=e1a9fb49d1908498f664ee24dfe8b522b9c189182def98740a8d3a3acfe80243
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/f736997f-5cb2-4b12-bd13-9b483728b634:CHS/variant/9c59e29527591aeb0127faea9cda9921/bandwidth/5980000.m3u8
 
 #EXTINF:-1 tvg-chno="85" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News (Alt)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News (Alt)
 https://tvsen6.aynaott.com/foxnews/index.m3u8
