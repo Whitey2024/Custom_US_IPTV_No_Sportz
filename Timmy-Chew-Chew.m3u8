@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
 
-#EXTINF:-1 tvg-chno="22530" group-title="News" tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png",FOX News (Timmy)
+#EXTINF:-1 tvg-chno="22530" group-title="TV" tvg-id="CBS.News.National.Stream.us2" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/tv/CBSHD.png",CBS Feed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/f736997f-5cb2-4b12-bd13-9b483728b634:CHS/variant/9c59e29527591aeb0127faea9cda9921/bandwidth/5980000.m3u8
 
