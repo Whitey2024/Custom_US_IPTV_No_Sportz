@@ -23,5 +23,10 @@ https://content-ausw1.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37/e.m3u8
 https://p8.usnlive.com/stream/foxnews.m3u8
 
 
+#EXTINF:-1 tvg-chno="101" tvg-id="Buzzr" tvg-name="BUZZR" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122019/buzzr-01.png?XpxREagj3UuXaSkmg8dIrgARuDpSggra&itok=lEDMDvuS" group-title="TV",BUZZR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/720p-cc/index.m3u8
+
+
 
 
