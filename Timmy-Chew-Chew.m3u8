@@ -16,7 +16,8 @@ https://p0.usnlive.com/stream/foxnews.m3u8
 
 #EXTINF:-1 tvg-chno="69" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News (pbtv)" tvg-logo="" group-title="TV",PBTV (Alt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://xplay.oklivetv.com/m3u8/WmxFQlpENzdNN1BWL2N0MFlnUXZXdz09/MUxJejJQcUlNUU5icEZNUVdGUGlRaERwcW5WYXpUSFVmRUhGYWpiVzkrT3l3UjB0WFhxUmVLSG1yZFBsaks4eGtUSXZlVHFkaldBYXVJeXhXZ01Ta2kvMkYwd1ZBSXFKWkV2S2V0dlphZjZqUHZHc1p3TDdIWFZZdzg2RnMvWUczcVpQYXF1by9NQkQyVnMvWmlrNkxKTlpPVnZYczg5N0ZnVnQ0YnJwOU1SUWVwOEY2OVR4bGs4bDR3M01TNjNvZldoYmt3SkdzeUtUYW92ZWFhMCtZK01nZEo0SDJwVjNiYndEaWt4cC9FcFBDV2lRYUlUbTZkUmtvSU1GR1FuTnYza09tT2UySG43cXRicElvK1FiVHRzWkRnQmpLKzZNNklnbUNxVEl2U2IzRWtVV08yMHRvOHp2MVlrRjBXZk5CdHI1RHRSdXFtRHF3UXlwWW1LU05GZ082VDF3ajhWUkxySzhsYlZTQkJFU1pVRW9qNFhFUUNhVDBSTFhpTG5MUGNwdVc5eURkeE9uRUhneDFRMFB0ZGlLTHJVVSs3RFp2NzE1WEdWR28yTE5QTk9JSnpZME12ZTlvYzhZYy9LajU5TWUvZ2pNN2VPZGVWRi9TdG9xclE9PQ.m3u8
+https://www.youtube.com/watch?v=A4gNgHfZ-v4
+
 #EXTINF:-1 tvg-chno="84" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p8" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News
 #EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
 https://p8.usnlive.com/stream/foxnews.m3u8
