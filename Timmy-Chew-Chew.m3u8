@@ -4,6 +4,10 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/f736997f-5cb2-4b12-bd13-9b483728b634:CHS/variant/9c59e29527591aeb0127faea9cda9921/bandwidth/5980000.m3u8
 
+#EXTINF:-1 tvg-chno="17" group-title="TV" tvg-id="WXMI.Fox.17" tvg-logo="https://github.com/Whitey2024/Custom_US_IPTV_No_Sportz/blob/main/FOX.PNG",Fox 17 WXMI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://content-ause1.uplynk.com/channel/928daec7acca4da1950162a5cf5eb9f6/e.m3u8?pbs=0930289bc44a4c84b72b8f69502fd400
+
 #EXTINF:-1 tvg-chno="85" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News (Alt)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News (Alt)
 https://tvsen6.aynaott.com/foxnews/index.m3u8
 
