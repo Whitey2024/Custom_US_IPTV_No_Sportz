@@ -8,30 +8,13 @@ https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/f736997
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://content-ause1.uplynk.com/channel/928daec7acca4da1950162a5cf5eb9f6/e.m3u8?pbs=0930289bc44a4c84b72b8f69502fd400
 
-#EXTINF:-1 tvg-chno="85" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News (Alt)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News (Alt)
-https://tvsen6.aynaott.com/foxnews/index.m3u8
 
-#EXTINF:-1 tvg-chno="64" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p9" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News1
-#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
-https://p9.usnlive.com/stream/foxnews.m3u8
-
-#EXTINF:-1 tvg-chno="74" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News
-#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
-https://p10.usnlive.com/stream/foxnews.m3u8
-
-#EXTINF:-1 tvg-chno="80" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p11" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News3
-#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
-https://p11.usnlive.com/stream/foxnews.m3u8
-
-#EXTINF:-1 tvg-chno="86" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News4
-#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
-https://p1.usnlive.com/stream/foxnews.m3u8
 
 #EXTINF:-1 tvg-chno="73" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p0" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News5
 #EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
 https://p0.usnlive.com/stream/foxnews.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News (pbtv)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",PBTV (Alt)
+#EXTINF:-1 tvg-chno="69" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News (pbtv)" tvg-logo="" group-title="TV",PBTV (Alt)
 https://xplay.oklivetv.com/m3u8/WmxFQlpENzdNN1BWL2N0MFlnUXZXdz09/MUxJejJQcUlNUU5icEZNUVdGUGlRcEFEK1l1ZERwOS9EdmlwNkc0b0c5VnhOczBEMTNCUWdFYVExWDh3eHhyclJXUk9kOUp2THNGNjBsbWxMdU1TNlpVUmJ2M3lYbi9EVGhXMFRoUGd4eGRrd3ROdWd6TzhLbi82YUxVV1BqMStiSjV3M3pUWkFkd24vRnVOKzlLN0xLeVlTeWRyVThrRXNOSit6akxQa2lucktiNjJCcy85R3pOVDBGcU5yaEhJN3FZRFNPYzRXRnlhT20wcng0NDFHdDBOajFpWm94YXpmWEhNcVdFRmtBZGw5N2V5aW1EUE53aFhiOUdiOHdJaVhDWkVLZUtlbUUyVWpuNEJOdDE2aS9Bb1J4TGM3aUpXems4aGxvSHZiNDZqcGQ2YnRNSGkzN1lzWXJPTzZUZENsOUgxUjEvTzNsNjAzVngyc2tDN3MzZEJzV2lRWUVYMXNOVmNkYzBNeHhhNHlPTWZDWkdVL0ZWQkRGc1JLNW1BZDU1ZzBTRjdlRVFVcEJtQk9xR3IzaXQ4VmxFLzFBVGVMZTFnMGx0bE0xVG1nckw4TlJqc1IxM1ZrL1ViZS9QYUt2NXl1bjdrSndFdWxmcGgwc3Naemc9PQ.m3u8
 
 #EXTINF:-1 tvg-chno="84" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p8" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News
