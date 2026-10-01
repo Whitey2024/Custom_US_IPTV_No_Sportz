@@ -28,5 +28,13 @@ https://p8.usnlive.com/stream/foxnews.m3u8
 https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/720p-cc/index.m3u8
 
 
+#EXTINF:-1 tvg-chno="102" tvg-id="Buzzr" tvg-name="BUZZR" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122019/buzzr-01.png?XpxREagj3UuXaSkmg8dIrgARuDpSggra&itok=lEDMDvuS" group-title="TV",BUZZR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-chno="103" tvg-id="Game Show Network" tvg-name="Game Show Network" tvg-logo="https://i.imgur.com/Uuc5h1s.png" group-title="TV",GSN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://pb-bunear28tuvaw.akamaized.net/v1/gsn_gameshowchannnel_1/samsungheadend_us/V00000004/0/HLS/playlist_3000k_20260818T135408.m3u8
+
+
 
 
