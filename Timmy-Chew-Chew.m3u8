@@ -16,7 +16,7 @@ https://p0.usnlive.com/stream/foxnews.m3u8
 
 #EXTINF:-1 tvg-chno="69" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News (pbtv)" tvg-logo="" group-title="TV",PBTV (Alt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://rumble.com/hls-vod/lXPhlqevbTc/playlist.m3u8?u=8g74p&b=0
+https://content-ausw1.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37/e.m3u8?pbs=c577e7e4ece04d56ab72b88bfe29f34b
 
 #EXTINF:-1 tvg-chno="84" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p8" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News
 #EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
