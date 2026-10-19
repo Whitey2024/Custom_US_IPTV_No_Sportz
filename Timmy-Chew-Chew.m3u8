@@ -1,40 +1,120 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml,https://i.mjh.nz/PBS/all.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml,https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/us.xml,https://epg.pw/xmltv/epg_US.xml"
 
-#EXTINF:-1 tvg-chno="22530" group-title="TV" tvg-id="CBS.News.National.Stream.us2" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/tv/CBSHD.png",CBS Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/f736997f-5cb2-4b12-bd13-9b483728b634:CHS/variant/9c59e29527591aeb0127faea9cda9921/bandwidth/5980000.m3u8
+# Use Emby Guide data for local channels
 
-#EXTINF:-1 tvg-chno="17" group-title="TV" tvg-id="WXMI.Fox.17" tvg-logo="https://github.com/Whitey2024/Custom_US_IPTV_No_Sportz/blob/main/FOX.PNG",Fox 17 WXMI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://content-ause1.uplynk.com/channel/928daec7acca4da1950162a5cf5eb9f6/e.m3u8?pbs=0930289bc44a4c84b72b8f69502fd400
+# ***News***
 
+# FOX
 
-
-#EXTINF:-1 tvg-chno="73" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p0" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News5
+#EXTINF:-1 tvg-chno="00" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p0" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News5
 #EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
 https://p0.usnlive.com/stream/foxnews.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-id="Scripps.News" tvg-name="Scripps" tvg-logo="" group-title="TV",SCRIPPS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://content-ausw1.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37/e.m3u8?pbs=c577e7e4ece04d56ab72b88bfe29f34b
+#EXTINF:-1 tvg-chno="01" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News 1
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
+https://p1.usnlive.com/stream/foxnews.m3u8
 
-#EXTINF:-1 tvg-chno="84" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p8" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News
+#EXTINF:-1 tvg-chno="02" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News 2
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
+https://p2.usnlive.com/stream/foxnews.m3u8
+
+#EXTINF:-1 tvg-chno="03" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News 3
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
+https://p3.usnlive.com/stream/foxnews.m3u8
+
+#EXTINF:-1 tvg-chno="04" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News 4
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
+https://p4.usnlive.com/stream/foxnews.m3u8
+
+#EXTINF:-1 tvg-chno="05" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News 5
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
+https://p5.usnlive.com/stream/foxnews.m3u8
+
+#EXTINF:-1 tvg-chno="05" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p6" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News 6
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
+https://p6.usnlive.com/stream/foxnews.m3u8
+
+#EXTINF:-1 tvg-chno="07" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News 7
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
+https://p7.usnlive.com/stream/foxnews.m3u8
+
+#EXTINF:-1 tvg-chno="08" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p8" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News 8
 #EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
 https://p8.usnlive.com/stream/foxnews.m3u8
 
+#EXTINF:-1 tvg-chno="09" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p9" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News 9
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
+https://p9.usnlive.com/stream/foxnews.m3u8
 
-#EXTINF:-1 tvg-chno="101" tvg-id="Buzzr" tvg-name="BUZZR" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122019/buzzr-01.png?XpxREagj3UuXaSkmg8dIrgARuDpSggra&itok=lEDMDvuS" group-title="TV",BUZZR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/720p-cc/index.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p10" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News 10
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
+https://p10.usnlive.com/stream/foxnews.m3u8
 
+#EXTINF:-1 tvg-chno="11" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p11" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News 11
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
+https://p11.usnlive.com/stream/foxnews.m3u8
 
-#EXTINF:-1 tvg-chno="102" tvg-id="Buzzr" tvg-name="BUZZR" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122019/buzzr-01.png?XpxREagj3UuXaSkmg8dIrgARuDpSggra&itok=lEDMDvuS" group-title="TV",BUZZR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="12" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p12" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
+https://p12.usnlive.com/stream/foxnews.m3u8
 
-#EXTINF:-1 tvg-chno="103" tvg-id="Game Show Network" tvg-name="Game Show Network" tvg-logo="https://i.imgur.com/Uuc5h1s.png" group-title="TV",GSN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://pb-bunear28tuvaw.akamaized.net/v1/gsn_gameshowchannnel_1/samsungheadend_us/V00000004/0/HLS/playlist_3000k_20260818T135408.m3u8
+#EXTINF:-1 tvg-chno="22530" group-title="News" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News (Timmy)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png",FOX News (Timmy)
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/22530.ts
 
+#EXTINF:-1 tvg-chno="99" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News (Alt)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News 99 (Alt)
+https://tvsen6.aynaott.com/foxnews/index.m3u8
+
+#EXTINF:-1 tvg-chno="98" tvg-id="plex.tv.LiveNOW.from.FOX.plex" tvg-name="Fox LiveNOW" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119219_dark_360w_270h.png" group-title="TV",Fox LiveNOW
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="60" tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="TV",Fox Business
+http://206.212.244.63/66/index.m3u8
+
+# NEWSMAX
+
+#EXTINF:-1 tvg-chno="113" tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87925_dark_360w_270h.png" group-title="TV",Newsmax TV
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="Newsmax TV" tvg-name="Newsmax (UFreeTV)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87925_dark_360w_270h.png", Newsmax TV (720p)
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-chno="140" tvg-id="plex.tv.Newsmax2.plex" tvg-name="Newsmax2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121162_dark_360w_270h.png" group-title="TV",Newsmax2
+https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="NewsNet.us" tvg-name="Newsnet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png", NewsNet (720p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
+
+# OANN from Klowdtv and USnewsON
+
+#EXTINF:-1 tvg-chno="100" tvg-id="465382" tvg-name="O A N N p0" tvg-logo="https://cdn.brandfetch.io/id4T_W8Mo3/w/225/h/225/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1758971604259" group-title="TV",OANN
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
+https://p0.usnlive.com/stream/oann.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="465382" group-title="News" tvg-name="OANN" tvg-logo="https://cdn.brandfetch.io/id4T_W8Mo3/w/225/h/225/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1758971604259", OAN (720p)
+https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="465382" group-title="News" tvg-name="OANN" tvg-logo="https://cdn.brandfetch.io/id4T_W8Mo3/w/225/h/225/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1758971604259", OAN
+https://cdn.klowdtv.net/803B48A/oan_aws/OAN.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="OANEncore.us" tvg-name="OAN Encore" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg", OAN Encore (720p)
+https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="5e7cf6c7b156d500078c5f44" tvg-name="" tvg-logo="https://i.imgur.com/0xW69iu.png", OANPlus (1080p)
+https://oan-plus-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="5e7cf6c7b156d500078c5f44" tvg-name="OAN+", OAN Plus
+https://67bf68ca230b4e82bd5ac42d46449483.mediatailor.us-west-2.amazonaws.com/v1/master/d138761b0916ee5f222129c594a33677627df5e3/KlowdTV_OAN_Plus/fast/OAN_Encore/playlist.m3u8
+
+# LocalNow CHANNELS
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A75FC2FE-BC1F-4935-816D-6566283A47D6/3-1x1.png" tvg-id="LN_A75FC2FE-BC1F-4935-816D-6566283A47D6" group-title="LocalNow🇺🇸: More Cities",WWMT News Channel 3 Grand Rapids MI
+https://s8host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/dist/localnow/701/hls/master/playlist.m3u8?ads.cdnhost=s8host4.localnow.api.cms.amdvids.com&ads.playbackid=A75FC2FE-BC1F-4935-816D-6566283A47D6&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=A75FC2FE-BC1F-4935-816D-6566283A47D6&ads.n4=content_name&ads.v4=WWMT%20Grand%20Rapids%20MI&ads.n21=device_make&ads.v21=&ads.n22=ip&ads.v22=86.48.9.131&ads.n23=app_store_url&ads.v23=&ads.n24=content_producer_name&ads.v24=Sinclair%20Television%20Group%20INC&ads.n25=channel_company_id&ads.v25=AMDP500539&ads.n26=app_version&ads.v26=0.0.0&ads.n27=us_privacy&ads.v27=1YNY&ads.n28=gpp&ads.v28=&ads.n29=pos&ads.v29=midroll&ads.n30=channel_language&ads.v30=en&ads.n31=cust_devicename&ads.v31=desktop_web&ads.n32=gpp_sid&ads.v32=&ads.n33=channel_ext_id&ads.v33=&ads.n34=h&ads.v34=1080&ads.n35=device_type&ads.v35=&ads.n36=content_custom_2_param&ads.v36=AMDB013458&ads.n37=content_livestream&ads.v37=1&ads.n38=app_name&ads.v38=&ads.n39=channel_brand_id&ads.v39=AMDB013458&ads.n40=network_name&ads.v40=wwmt-grand-rapids&ads.n41=channel_rating&ads.v41=TV-PG&ads.n42=content_custom_1_param&ads.v42=A75FC2FE-BC1F-4935-816D-6566283A47D6&ads.n43=device_model&ads.v43=&ads.n44=ifa_type&ads.v44=&ads.n45=channel_title&ads.v45=WWMT%20Grand%20Rapids%20MI&ads.n46=dnt&ads.v46=&ads.n47=channel_id&ads.v47=A75FC2FE-BC1F-4935-816D-6566283A47D6&ads.n48=channel_corp&ads.v48=Sinclair%20Television%20Group%20INC&ads.n49=content_custom_3_param&ads.v49=channel&ads.n50=content_provider&ads.v50=wwmt-grand-rapids&ads.n51=channel_name&ads.v51=WWMT%20Grand%20Rapids%20MI&ads.n52=w&ads.v52=1920&ads.n53=channel_genre&ads.v53=News&ads.n54=did&ads.v54=&ads.n55=content_type&ads.v55=channel&ads.n56=url&ads.v56=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n57=ua&ads.v57=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n58=app_bundle&ads.v58=
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E32EB143-84E0-4174-BE06-A3A076F0AF2E/3-1x1.png" tvg-id="LN_E32EB143-84E0-4174-BE06-A3A076F0AF2E" group-title="LocalNow🇺🇸: More Cities",WZZM ABC 13 On Your Side Grand Rapids MI
+https://s10host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/wzzm/24x7/index.m3u8?vendor=LocalNow&ccpa_us_privacy=1YNY&device_devicetype=desktop_web&height=1080&ip_addr=86.48.9.131&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&ads.cdnhost=s10host2.localnow.api.cms.amdvids.com&ads.playbackid=E32EB143-84E0-4174-BE06-A3A076F0AF2E&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=E32EB143-84E0-4174-BE06-A3A076F0AF2E&ads.n4=content_name&ads.v4=WZZM%20Grand%20Rapids%20MI&ads.n21=device_make&ads.v21=&ads.n22=content_livestream&ads.v22=1&ads.n23=channel_id&ads.v23=E32EB143-84E0-4174-BE06-A3A076F0AF2E&ads.n24=gpp_sid&ads.v24=&ads.n25=app_bundle&ads.v25=&ads.n26=channel_ext_id&ads.v26=&ads.n27=device_model&ads.v27=&ads.n28=channel_language&ads.v28=en&ads.n29=app_version&ads.v29=0.0.0&ads.n30=channel_title&ads.v30=WZZM%20Grand%20Rapids%20MI&ads.n31=channel_corp&ads.v31=Tegna%20INC&ads.n32=pos&ads.v32=midroll&ads.n33=channel_company_id&ads.v33=AMDP500555&ads.n34=w&ads.v34=1920&ads.n35=content_producer_name&ads.v35=Tegna%20INC&ads.n36=did&ads.v36=&ads.n37=dnt&ads.v37=&ads.n38=channel_rating&ads.v38=TV-PG&ads.n39=app_name&ads.v39=&ads.n40=content_custom_1_param&ads.v40=E32EB143-84E0-4174-BE06-A3A076F0AF2E&ads.n41=channel_genre&ads.v41=More%20Cities&ads.n42=gpp&ads.v42=&ads.n43=device_type&ads.v43=&ads.n44=cust_devicename&ads.v44=desktop_web&ads.n45=h&ads.v45=1080&ads.n46=url&ads.v46=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n47=ifa_type&ads.v47=&ads.n48=app_store_url&ads.v48=&ads.n49=content_provider&ads.v49=wzzm-grand-rapids&ads.n50=network_name&ads.v50=wzzm-grand-rapids&ads.n51=content_type&ads.v51=channel&ads.n52=ua&ads.v52=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n53=content_custom_3_param&ads.v53=channel&ads.n54=us_privacy&ads.v54=1YNY&ads.n55=ip&ads.v55=86.48.9.131&ads.n56=channel_name&ads.v56=WZZM%20Grand%20Rapids%20MI&ads.n57=channel_brand_id&ads.v57=AMDB013611&ads.n58=content_custom_2_param&ads.v58=AMDB013611
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/6A5F5D5D-9634-4611-8E1B-CBB94EDE0CB0/3-1x1.png" tvg-id="LN_6A5F5D5D-9634-4611-8E1B-CBB94EDE0CB0" group-title="LocalNow🇺🇸: More Cities",WXMI FOX17 News West Michigan
+https://s4host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config5/playlist.m3u8?ads.cdnhost=s4host5.localnow.api.cms.amdvids.com&ads.playbackid=6A5F5D5D-9634-4611-8E1B-CBB94EDE0CB0&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=6A5F5D5D-9634-4611-8E1B-CBB94EDE0CB0&ads.n4=content_name&ads.v4=EPG%20%7C%20WXMI%20Grand%20Rapids%20MI&ads.n21=content_custom_3_param&ads.v21=channel&ads.n22=content_provider&ads.v22=wxmi&ads.n23=device_type&ads.v23=&ads.n24=channel_rating&ads.v24=TV-PG&ads.n25=ua&ads.v25=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n26=channel_id&ads.v26=6A5F5D5D-9634-4611-8E1B-CBB94EDE0CB0&ads.n27=channel_brand_id&ads.v27=AMDB012760&ads.n28=app_version&ads.v28=0.0.0&ads.n29=pos&ads.v29=midroll&ads.n30=channel_corp&ads.v30=Scripps%20Media%20INC&ads.n31=w&ads.v31=1920&ads.n32=h&ads.v32=1080&ads.n33=channel_genre&ads.v33=News&ads.n34=dnt&ads.v34=&ads.n35=url&ads.v35=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n36=content_livestream&ads.v36=1&ads.n37=content_custom_2_param&ads.v37=AMDB012760&ads.n38=content_type&ads.v38=channel&ads.n39=app_bundle&ads.v39=&ads.n40=channel_ext_id&ads.v40=627019e4a75ccf667035a4f9&ads.n41=content_producer_name&ads.v41=Scripps%20Media%20INC&ads.n42=gpp&ads.v42=&ads.n43=app_store_url&ads.v43=&ads.n44=did&ads.v44=&ads.n45=channel_title&ads.v45=EPG%20%20WXMI%20Grand%20Rapids%20MI&ads.n46=gpp_sid&ads.v46=&ads.n47=channel_name&ads.v47=EPG%20%20WXMI%20Grand%20Rapids%20MI&ads.n48=ip&ads.v48=86.48.9.131&ads.n49=device_make&ads.v49=&ads.n50=channel_company_id&ads.v50=AMDP500135&ads.n51=us_privacy&ads.v51=1YNY&ads.n52=content_custom_1_param&ads.v52=6A5F5D5D-9634-4611-8E1B-CBB94EDE0CB0&ads.n53=device_model&ads.v53=&ads.n54=network_name&ads.v54=wxmi&ads.n55=app_name&ads.v55=&ads.n56=ifa_type&ads.v56=&ads.n57=cust_devicename&ads.v57=desktop_web&ads.n58=channel_language&ads.v58=en
 
 
 
