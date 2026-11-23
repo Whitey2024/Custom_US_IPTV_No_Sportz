@@ -8,6 +8,8 @@
 # ***News***
 
 # FOX
+#EXTINF:-1 tvg-chno="9999999" tvg-id="Fox.Nation" tvg-name="Fox Nation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox Nation
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-livehttps://fa.edge.foxdtc.digitalvideoplatform.com/ZXhwPTE3OTU1Mjg5MjQ7YWNsPS8qO3dzaWQ9MTU2M2I1ODYyZDM2Y2I4OWJiZmRhOTkwODI5ODVmOTVfZm94ZHRjX3dlYl9lbi1VUztobWFjPTdoWVJQKzdiSTNGVXdGSVNpZXNCRmhMRFhmbHFCQzFmbDMrZEpMdS84bzQ9/vod/foxone/csm/builder/proxy.1/6.m3u8?yo.p.si=csm-e-cefoxdtcprdausw2vpr-06b05f180953931cc-38-1795442524827&yo.p.hn=csm-e-cefoxdtcprdausw2vpr-06b05f180953931cc.bln1.yospace.com&yo.p.ci=737671567&yo.p.fn=bWN2b2QvZm1jLTg5aDcwenJlbDBsdnh0cHZfVlgtMTcyODM1NjctLTY2MDYzOC9obHMvdjFfMC9pbmRleC5tM3U4&yo.p.bp=MANIFEST&yo.p.cu=&traceid=1563b5862d36cb89bbfda99082985f95&program_id=fmc-o90lcaf83syyhl0r&vcid2=516429%3A5559e2fa-75fd-4bde-a6c4-3d6819f0d0bf&site_section=foxone%2Fwebdesktop%2Fvod%2Fnation&platform=web&yo.pk=true&yo.av=4&xid=5559e2fa-75fd-4bde-a6c4-3d6819f0d0bf&bu=foxdtc&osv=10&yo.aas=true&isnationsku=true&yo.ap=%2FZXhwPTE3OTU1Mjg5MjQ7YWNsPS8qO3dzaWQ9MTU2M2I1ODYyZDM2Y2I4OWJiZmRhOTkwODI5ODVmOTVfZm94ZHRjX3dlYl9lbi1VUztobWFjPTdoWVJQKzdiSTNGVXdGSVNpZXNCRmhMRFhmbHFCQzFmbDMrZEpMdS84bzQ9%2Fvod%2Ffoxone%2F&height=963&yo.kp=false&ad_env=1&ad=fw_prod&ae=nomvpd&device_id=5559e2fa-75fd-4bde-a6c4-3d6819f0d0bf&is_lat=0&os=Windows&metr=7&profile=516429%3Aadrise_foxone_webdesktop_vod&cdn=fa&yo.up=%2FZXhwPTE3OTU1Mjg5MjQ7YWNsPS8qO3dzaWQ9MTU2M2I1ODYyZDM2Y2I4OWJiZmRhOTkwODI5ODVmOTVfZm94ZHRjX3dlYl9lbi1VUztobWFjPTdoWVJQKzdiSTNGVXdGSVNpZXNCRmhMRFhmbHFCQzFmbDMrZEpMdS84bzQ9%2Fvod%2Ffoxone%2F&nielsen_app_id=&us_privacy=1NNY&width=1920&isnationsub=true&vdur=2286&vcid=&CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%221563b5862d36cb89bbfda99082985f95%22%2Cst%3Dv%2Csu
 
 #EXTINF:-1 tvg-chno="00" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p0" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News5
 #EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
@@ -22,6 +24,7 @@ https://p1.usnlive.com/stream/foxnews.m3u8
 https://p2.usnlive.com/stream/foxnews.m3u8
 
 #EXTINF:-1 tvg-chno="03" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News p3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV",Fox News 3
+
 #EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
 https://p3.usnlive.com/stream/foxnews.m3u8
 
